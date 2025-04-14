@@ -1,0 +1,20 @@
+# STM32CubeIDE
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+*.log
+
+# Компилируемые файлы
+*.o
+*.su
+*.map
+*.elf
+*.bin
+*.hex
+*.lst
+
+# Другое
+/.metadata/
+/STM32CubeIDE/
